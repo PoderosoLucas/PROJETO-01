@@ -1,5 +1,5 @@
 {
-  "requireCheckoutLinks": true,
+  "requireCheckoutLinks": false,
   "requireMetaPixel": false,
   "requireGoogleAnalytics": false,
   "requireGoogleTagManager": false,

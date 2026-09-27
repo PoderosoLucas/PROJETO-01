@@ -1,5 +1,17 @@
 # PROJECT_SPEC.md — Página de Vendas Low-Ticket
 
+## Publicação de demonstração — PROJETO 01
+- Autorizada pelo usuário em 26/09/2026, com pagamentos desativados.
+- Repositório: https://github.com/PoderosoLucas/PROJETO-01, branch `main`.
+- Cloudflare Workers Static Assets: `projeto-01`, na conta `ca4c69c14ad9859de55a4e5a76c50159`.
+- Endereço gratuito `workers.dev`, a confirmar na Cloudflare.
+- Conteúdo atual de demonstração mantido em `src/config/content.ts`, com aviso visível de demonstração.
+- Os três checkouts estão vazios; nenhum pagamento deve ser encaminhado à referência.
+- `requireCheckoutLinks: false` aplica-se exclusivamente à demonstração sem vendas. Reativar ao lançar um produto real.
+- Placeholders são permitidos nesta demonstração; SEO definido como `noindex,nofollow`.
+- Nenhum domínio ou conta da referência abaixo deve ser usado. O histórico abaixo não substitui estas configurações de publicação.
+- Deploy automático deve executar `pnpm predeploy` antes de publicar.
+
 > Informações extraídas da página de referência em 11 de agosto de 2026. Campos não disponíveis permanecem vazios.
 
 ## Identificação

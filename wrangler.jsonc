@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "segredorevelado",
-  "account_id": "dd883f14f393bd2c385e8189af3ba494",
+  "name": "projeto-01",
+  "account_id": "ca4c69c14ad9859de55a4e5a76c50159",
   "compatibility_date": "2026-08-29",
   "compatibility_flags": ["nodejs_compat"],
   "assets": {

@@ -1,1 +1,1 @@
-export const seo = { title: 'Página de Vendas Low-Ticket', description: '', canonical: '', ogTitle: '', ogDescription: '', ogImage: '', robots: 'index,follow' }
+export const seo = { title: 'PROJETO 01 | Demonstração', description: 'Demonstração de uma página de vendas. Conteúdo ilustrativo e pagamentos desativados.', canonical: '', ogTitle: 'PROJETO 01 | Demonstração', ogDescription: 'Conteúdo ilustrativo e pagamentos desativados.', ogImage: '', robots: 'noindex,nofollow' }

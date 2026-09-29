@@ -4,7 +4,7 @@ export type ProductItem = MediaItem & { eyebrow: string; title: string; descript
 export const pageContent = {
   urgencyBar: {
     enabled: true,
-    text: 'Acesso imediato e vitalício para aprender no seu ritmo.',
+    text: 'Demonstração • Conteúdo ilustrativo • Pagamentos desativados',
   },
   hero: {
     image: '',
